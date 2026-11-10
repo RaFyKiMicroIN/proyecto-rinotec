@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rino · Asistente con IA de RinoTec</title>
+  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="stylesheet" href="chat.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/" title="Ir al inicio">
+      <img class="logo" src="img/logo_icono.png" alt="Logo de RinoTec">
+      <div>
+        <h1>Rino<span>Tec</span></h1>
+        <p>Reparación de celulares y computadoras · Accesorios mayoreo y menudeo</p>
+      </div>
+    </a>
+    <div class="sesion">
+      <span id="modo" class="pill">Modo cliente</span>
+      <button id="btnAcceso" class="tab">Acceso empleados</button>
+      <button id="btnSalir" class="tab" hidden>Cerrar sesión</button>
+    </div>
+  </header>
+
+  <div class="aviso">🤖 Estás hablando con <b>Rino</b>, un asistente de <b>inteligencia artificial</b>. Puede equivocarse: las decisiones de pagos, garantías y diagnósticos las confirma una persona de RinoTec.</div>
+
+  <!-- Panel de acceso para empleados -->
+  <div id="panel" class="panel" hidden>
+    <div class="panel-caja" role="dialog" aria-labelledby="tituloAcceso">
+      <h2 id="tituloAcceso">Acceso para empleados</h2>
+      <p class="sub">Los clientes no necesitan iniciar sesión.</p>
+      <a id="btnEntra" class="btn-ms" hidden>Iniciar sesión con Microsoft</a>
+      <form id="formCodigo" hidden autocomplete="off">
+        <label for="codigo">Código de acceso de empleado</label>
+        <input id="codigo" type="password" required>
+        <button type="submit">Entrar</button>
+        <p id="errorCodigo" class="error" role="alert"></p>
+      </form>
+      <p id="sinAcceso" class="sub" hidden>El acceso de empleados no está configurado en este servidor.</p>
+      <button id="cerrarPanel" class="link">Cancelar</button>
+    </div>
+  </div>
+
+  <main id="chat" aria-live="polite"></main>
+  <section class="sugerencias" id="sugerencias"></section>
+  <form id="form" autocomplete="off">
+    <textarea id="mensaje" rows="1" placeholder="Escribe tu pregunta…" aria-label="Mensaje"></textarea>
+    <button type="submit" id="enviar" aria-label="Enviar">Enviar</button>
+  </form>
+  <footer>Piloto académico · Empresa y datos ficticios · Microsoft Foundry + Azure App Service</footer>
+  <script src="asistente.js"></script>
+</body>
+</html>
