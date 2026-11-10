@@ -1,3 +1,4 @@
+# Elementos a ignorar en el repo del proyecto
 node_modules/
 .env
 .azure/
