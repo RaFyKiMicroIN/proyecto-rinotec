@@ -1,0 +1,135 @@
+[
+  {
+    "fecha": "2026-08-01",
+    "de": "Eduardo Flores García",
+    "para": "ventas.zacatecas@rinotec.example",
+    "asunto": "Lista de precios mayoreo",
+    "cuerpo": "Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+  },
+  {
+    "fecha": "2026-08-05",
+    "de": "Pedro Rivera Alvarado",
+    "para": "ventas.zacatecas@rinotec.example",
+    "asunto": "Factura",
+    "cuerpo": "Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+  },
+  {
+    "fecha": "2026-08-05",
+    "de": "María Cortés Ramírez",
+    "para": "ventas.aguascalientes@rinotec.example",
+    "asunto": "Lista de precios mayoreo",
+    "cuerpo": "Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+  },
+  {
+    "fecha": "2026-08-10",
+    "de": "Hugo Romero Pérez",
+    "para": "ventas.leon@rinotec.example",
+    "asunto": "Lista de precios mayoreo",
+    "cuerpo": "Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+  },
+  {
+    "fecha": "2026-08-23",
+    "de": "María Guerrero Guerrero",
+    "para": "ventas.guadalajara@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi Motorola G54 con folio OS-GDL-0358. Gracias."
+  },
+  {
+    "fecha": "2026-08-29",
+    "de": "Arturo Mendoza Rivera",
+    "para": "ventas.leon@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi Dell Inspiron 15 con folio L-26-559. Gracias."
+  },
+  {
+    "fecha": "2026-08-30",
+    "de": "Guadalupe Ramos Díaz",
+    "para": "ventas.sanluispotosi@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi Samsung A15 con folio SLP/1166. Gracias."
+  },
+  {
+    "fecha": "2026-09-11",
+    "de": "Pedro Medina González",
+    "para": "ventas.leon@rinotec.example",
+    "asunto": "Lista de precios mayoreo",
+    "cuerpo": "Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+  },
+  {
+    "fecha": "2026-09-29",
+    "de": "Raúl Aguilar Cortés",
+    "para": "ventas.zacatecas@rinotec.example",
+    "asunto": "Factura",
+    "cuerpo": "Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+  },
+  {
+    "fecha": "2026-10-01",
+    "de": "Fernando Soto Díaz",
+    "para": "ventas.sanluispotosi@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi Xiaomi Redmi Note 12 con folio SLP/1170. Gracias."
+  },
+  {
+    "fecha": "2026-10-02",
+    "de": "Colegio Valle Verde (escuela, contrato mantenimiento)",
+    "para": "ventas.sanluispotosi@rinotec.example",
+    "asunto": "Estado de las 4 laptops",
+    "cuerpo": "Buen día, dejamos 4 laptops el 24 de septiembre para cambio de disco. Nos dijeron 5 días. ¿Para cuándo estarán? Las necesitan los maestros."
+  },
+  {
+    "fecha": "2026-10-10",
+    "de": "Raúl Aguilar Cortés",
+    "para": "ventas.zacatecas@rinotec.example",
+    "asunto": "Factura",
+    "cuerpo": "Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+  },
+  {
+    "fecha": "2026-10-10",
+    "de": "Ana Aguilar Ibarra",
+    "para": "ventas.guadalajara@rinotec.example",
+    "asunto": "Lista de precios mayoreo",
+    "cuerpo": "Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+  },
+  {
+    "fecha": "2026-10-15",
+    "de": "Logística Express Occidente (contrato mantenimiento)",
+    "para": "ventas.guadalajara@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi Lenovo IdeaPad 3 con folio OS-GDL-0329. Gracias."
+  },
+  {
+    "fecha": "2026-10-17",
+    "de": "MóvilMax Potosí (mayorista)",
+    "para": "ventas.sanluispotosi@rinotec.example",
+    "asunto": "Faltante pedido PM-1104",
+    "cuerpo": "Es la tercera vez que reportamos el faltante de 40 fundas transparentes iPhone 15. Ya tenemos clientes esperando. Si no se resuelve esta semana vamos a buscar otro proveedor.\n\nAtte. Compras MóvilMax Potosí"
+  },
+  {
+    "fecha": "2026-10-19",
+    "de": "Leticia Rivera García",
+    "para": "ventas.zacatecas@rinotec.example",
+    "asunto": "Factura",
+    "cuerpo": "Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+  },
+  {
+    "fecha": "2026-10-21",
+    "de": "Colegio Valle Verde (escuela, contrato mantenimiento)",
+    "para": "ventas.sanluispotosi@rinotec.example",
+    "asunto": "URGENTE laptops",
+    "cuerpo": "Llevamos casi un mes sin equipos. Les recuerdo que tenemos contrato de mantenimiento. Vamos a reconsiderar la renovación del contrato."
+  },
+  {
+    "fecha": "2026-10-28",
+    "de": "Roberto Rodríguez Cortés",
+    "para": "ventas.sanluispotosi@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi iPhone 13 con folio SLP/1115. Gracias."
+  },
+  {
+    "fecha": "2026-11-01",
+    "de": "Carmen Esparza Guerrero",
+    "para": "ventas.zacatecas@rinotec.example",
+    "asunto": "Seguimiento a mi equipo",
+    "cuerpo": "Buenas tardes, quisiera saber el estado de mi iPhone 12 con folio No. 1274. Gracias."
+  }
+]

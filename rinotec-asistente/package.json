@@ -1,0 +1,19 @@
+{
+  "name": "rinotec-asistente",
+  "version": "1.0.0",
+  "description": "Asistente con IA de RinoTec: chat web (Node.js + Express) que conversa con un agente de Microsoft Foundry",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch --env-file=.env server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@azure/ai-projects": "^2.0.0-beta.1",
+    "@azure/identity": "^4.10.0",
+    "express": "^4.21.2"
+  }
+}

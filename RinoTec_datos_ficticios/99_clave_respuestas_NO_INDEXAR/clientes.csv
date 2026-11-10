@@ -1,0 +1,81 @@
+﻿id,nombre,tipo,sucursal,telefono
+C0001,Rosa Ortiz Alvarado,Particular,GDL,4492721960
+C0002,Miguel Ibarra Delgado,Particular,GDL,4499236009
+C0003,Javier Ruiz García,Particular,GDL,4492354318
+C0004,Rosa Romero Rodríguez,Particular,GDL,4441192750
+C0005,Mónica Ortiz Morales,Particular,GDL,4445219689
+C0006,Eduardo Ramos Medina,Particular,GDL,4492280435
+C0007,Martha Pérez Ibarra,Particular,GDL,4495900991
+C0008,Fernando Soto Flores,Particular,GDL,4496184138
+C0009,María Guerrero Guerrero,Particular,GDL,4448083634
+C0010,Ana Aguilar Ibarra,Particular,GDL,4442953672
+C0011,Teresa Alvarado Esparza,Particular,GDL,4449802211
+C0012,Roberto Delgado Robles,Particular,GDL,4499690383
+C0013,María Jiménez Ramírez,Particular,GDL,339778116
+C0014,Pedro Cortés Robles,Particular,GDL,4929088515
+C0015,Miguel Sánchez Soto,Particular,ZAC,4445211189
+C0016,Gloria Aguilar Mendoza,Particular,ZAC,4499420478
+C0017,Raúl Aguilar Cortés,Particular,ZAC,4925938778
+C0018,Claudia García Martínez,Particular,ZAC,4928687780
+C0019,Carmen Esparza Guerrero,Particular,ZAC,4925363930
+C0020,Mónica Soto Alvarado,Particular,ZAC,4448285161
+C0021,Gloria Martínez Romero,Particular,ZAC,4778678186
+C0022,Pedro Rivera Alvarado,Particular,ZAC,4778598748
+C0023,Verónica Cortés Robles,Particular,ZAC,335470559
+C0024,Mónica Guerrero Rodríguez,Particular,ZAC,4927900650
+C0025,Leticia Rivera García,Particular,ZAC,331003589
+C0026,Javier Macías Pérez,Particular,ZAC,4494335171
+C0027,Adriana Sánchez Martínez,Particular,ZAC,4495505293
+C0028,Eduardo Flores García,Particular,ZAC,4779254204
+C0029,Francisco Macías Jiménez,Particular,LEO,4443201443
+C0030,Hugo Romero Pérez,Particular,LEO,4443686393
+C0031,Francisco Mendoza Alvarado,Particular,LEO,4447549947
+C0032,Leticia Rangel Reyes,Particular,LEO,4441237093
+C0033,Pedro Medina González,Particular,LEO,336821993
+C0034,Eduardo Hernández Hernández,Particular,LEO,4498986364
+C0035,Arturo Mendoza Rivera,Particular,LEO,4773036298
+C0036,Mónica Soto Gómez,Particular,LEO,4929717671
+C0037,Patricia Cortés Chávez,Particular,LEO,4444914569
+C0038,Luis Ibarra Aguilar,Particular,LEO,334279843
+C0039,Verónica Martínez Macías,Particular,LEO,338580296
+C0040,Jesús Robles Hernández,Particular,LEO,4929890860
+C0041,Patricia Rangel Ramírez,Particular,LEO,4924120649
+C0042,Sergio Castillo Cortés,Particular,LEO,4497947223
+C0043,Ana Medina Mendoza,Particular,SLP,4926772469
+C0044,Verónica Vargas Soto,Particular,SLP,4447974916
+C0045,Fernando Soto Díaz,Particular,SLP,4779712997
+C0046,Raúl Rivera Sánchez,Particular,SLP,4499802987
+C0047,Claudia Rodríguez Morales,Particular,SLP,4921082306
+C0048,Ana Soto Chávez,Particular,SLP,4444061027
+C0049,María Ramos Gómez,Particular,SLP,4774632979
+C0050,Rosa Castillo Ibarra,Particular,SLP,4494597623
+C0051,Fernando Castillo Ibarra,Particular,SLP,4922702144
+C0052,Roberto Rodríguez Cortés,Particular,SLP,4922778984
+C0053,Guadalupe Ramos Díaz,Particular,SLP,339499785
+C0054,Arturo Castillo González,Particular,SLP,4776278142
+C0055,Alejandro Vargas Vargas,Particular,SLP,331232708
+C0056,Manuel Vargas Delgado,Particular,SLP,331961529
+C0057,Pedro Ruiz Hernández,Particular,AGS,4773063938
+C0058,Pedro Ibarra Ramos,Particular,AGS,4778651160
+C0059,Juan Aguilar Ortiz,Particular,AGS,4494617775
+C0060,Norma Cortés Sánchez,Particular,AGS,4779409777
+C0061,Roberto Medina Romero,Particular,AGS,4771966882
+C0062,Teresa Hernández Romero,Particular,AGS,4775857938
+C0063,Rosa Mendoza Delgado,Particular,AGS,4771340075
+C0064,Andrés Chávez Reyes,Particular,AGS,4491941959
+C0065,Rosa Gómez Sánchez,Particular,AGS,331626104
+C0066,Francisco Rangel Ramos,Particular,AGS,4496070765
+C0067,María Cortés Ramírez,Particular,AGS,4777967545
+C0068,Sergio Medina Ruiz,Particular,AGS,4444683694
+C0069,Francisco Díaz Macías,Particular,AGS,337658179
+C0070,Roberto Flores Jiménez,Particular,AGS,331278431
+C0071,"Colegio Valle Verde (escuela, contrato mantenimiento)",Escuela,SLP,4779033657
+C0072,Despacho Contable Arriaga y Asociados,Empresa,ZAC,4445426099
+C0073,Clínica Dental Sonrisa Plena,Empresa,LEO,4773326285
+C0074,Instituto Tecnológico Privado del Centro (contrato mantenimiento),Escuela,AGS,4492500668
+C0075,Logística Express Occidente (contrato mantenimiento),Empresa,GDL,4921637682
+C0076,CeluShop Plaza Patria (mayorista),Mayorista,GDL,4495449700
+C0077,Accesorios La Bufa (mayorista),Mayorista,ZAC,4779731684
+C0078,TecnoCel León Centro (mayorista),Mayorista,LEO,4771943814
+C0079,MóvilMax Potosí (mayorista),Mayorista,SLP,335073617
+C0080,Cel y Más Aguascalientes (mayorista),Mayorista,AGS,4441978059

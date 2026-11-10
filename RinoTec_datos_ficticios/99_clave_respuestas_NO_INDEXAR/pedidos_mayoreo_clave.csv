@@ -1,0 +1,52 @@
+﻿folio,fecha,cliente_id,cliente,sale_de,estado,sku,cantidad,precio_mayoreo
+PM-1101,2026-10-02,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado incompleto,ACC-MIC-IP14,100,35
+PM-1101,2026-10-02,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado incompleto,ACC-FUN-SA54,30,95
+PM-1101,2026-10-02,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado incompleto,ACC-CAB-CC2,50,70
+PM-1101,2026-10-02,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado incompleto,ACC-MSD-128,100,185
+PM-1102,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-TEC-USB,30,190
+PM-1102,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-FUN-IP13,20,65
+PM-1102,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-AUD-BT1,30,290
+PM-1103,2026-10-28,C0078,TecnoCel León Centro (mayorista),LEO,Entregado incompleto,ACC-FUN-SA15,20,50
+PM-1103,2026-10-28,C0078,TecnoCel León Centro (mayorista),LEO,Entregado incompleto,ACC-MSD-128,10,185
+PM-1104,2026-10-03,C0079,MóvilMax Potosí (mayorista),GDL,Entregado incompleto (faltan 40 fundas iPhone 15),ACC-FUN-SA25,20,50
+PM-1104,2026-10-03,C0079,MóvilMax Potosí (mayorista),GDL,Entregado incompleto (faltan 40 fundas iPhone 15),ACC-MSD-064,10,120
+PM-1104,2026-10-03,C0079,MóvilMax Potosí (mayorista),GDL,Entregado incompleto (faltan 40 fundas iPhone 15),ACC-TEC-USB,30,190
+PM-1104,2026-10-03,C0079,MóvilMax Potosí (mayorista),GDL,Entregado incompleto (faltan 40 fundas iPhone 15),ACC-FUN-IP13,30,65
+PM-1104,2026-10-03,C0079,MóvilMax Potosí (mayorista),GDL,Entregado incompleto (faltan 40 fundas iPhone 15),ACC-FUN-SA15,20,50
+PM-1104,2026-10-03,C0079,MóvilMax Potosí (mayorista),GDL,Entregado incompleto (faltan 40 fundas iPhone 15),ACC-FUN-IP15,100,70
+PM-1105,2026-08-18,C0080,Cel y Más Aguascalientes (mayorista),AGS,Entregado,ACC-CAB-CL1,10,75
+PM-1105,2026-08-18,C0080,Cel y Más Aguascalientes (mayorista),AGS,Entregado,ACC-FUN-IP14,50,65
+PM-1105,2026-08-18,C0080,Cel y Más Aguascalientes (mayorista),AGS,Entregado,ACC-CAR-C20,10,165
+PM-1106,2026-10-17,C0076,CeluShop Plaza Patria (mayorista),GDL,En tránsito,ACC-MIC-IP14,50,35
+PM-1106,2026-10-17,C0076,CeluShop Plaza Patria (mayorista),GDL,En tránsito,ACC-FUN-IP13,100,65
+PM-1106,2026-10-17,C0076,CeluShop Plaza Patria (mayorista),GDL,En tránsito,ACC-FUN-IP15,30,70
+PM-1106,2026-10-17,C0076,CeluShop Plaza Patria (mayorista),GDL,En tránsito,ACC-FUN-SA25,100,50
+PM-1106,2026-10-17,C0076,CeluShop Plaza Patria (mayorista),GDL,En tránsito,ACC-AUD-BT1,10,290
+PM-1107,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-CAR-C25,20,180
+PM-1107,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-FUN-SA54,50,95
+PM-1107,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-FUN-SA25,10,50
+PM-1107,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-FUN-IP15,100,70
+PM-1107,2026-08-17,C0077,Accesorios La Bufa (mayorista),GDL,Entregado,ACC-FUN-IP14,100,65
+PM-1108,2026-10-07,C0078,TecnoCel León Centro (mayorista),LEO,En tránsito,ACC-MIC-IP14,50,35
+PM-1108,2026-10-07,C0078,TecnoCel León Centro (mayorista),LEO,En tránsito,ACC-CAB-CL1,50,75
+PM-1109,2026-08-25,C0079,MóvilMax Potosí (mayorista),SLP,Entregado incompleto,ACC-MSD-064,100,120
+PM-1109,2026-08-25,C0079,MóvilMax Potosí (mayorista),SLP,Entregado incompleto,ACC-MIC-IP15,50,35
+PM-1109,2026-08-25,C0079,MóvilMax Potosí (mayorista),SLP,Entregado incompleto,ACC-TEC-USB,30,190
+PM-1109,2026-08-25,C0079,MóvilMax Potosí (mayorista),SLP,Entregado incompleto,ACC-MIC-IP14,50,35
+PM-1110,2026-08-25,C0080,Cel y Más Aguascalientes (mayorista),AGS,Entregado,ACC-MSD-064,50,120
+PM-1110,2026-08-25,C0080,Cel y Más Aguascalientes (mayorista),AGS,Entregado,ACC-FUN-SA54,20,95
+PM-1110,2026-08-25,C0080,Cel y Más Aguascalientes (mayorista),AGS,Entregado,ACC-MIC-IP15,10,35
+PM-1111,2026-09-14,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado,ACC-PWB-10K,50,280
+PM-1111,2026-09-14,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado,ACC-CAR-C25,100,180
+PM-1111,2026-09-14,C0076,CeluShop Plaza Patria (mayorista),GDL,Entregado,ACC-FUN-SA15,20,50
+PM-1112,2026-10-24,C0077,Accesorios La Bufa (mayorista),ZAC,Entregado,ACC-CAB-CC2,20,70
+PM-1112,2026-10-24,C0077,Accesorios La Bufa (mayorista),ZAC,Entregado,ACC-CAB-CC1,100,55
+PM-1112,2026-10-24,C0077,Accesorios La Bufa (mayorista),ZAC,Entregado,ACC-MIC-SA15,100,30
+PM-1112,2026-10-24,C0077,Accesorios La Bufa (mayorista),ZAC,Entregado,ACC-FUN-IP13,20,65
+PM-1112,2026-10-24,C0077,Accesorios La Bufa (mayorista),ZAC,Entregado,ACC-FUN-SA54,50,95
+PM-1113,2026-08-24,C0078,TecnoCel León Centro (mayorista),LEO,Entregado incompleto,ACC-SOP-AUT,20,75
+PM-1113,2026-08-24,C0078,TecnoCel León Centro (mayorista),LEO,Entregado incompleto,ACC-TEC-USB,50,190
+PM-1114,2026-09-23,C0079,MóvilMax Potosí (mayorista),SLP,Entregado,ACC-FUN-SA25,30,50
+PM-1114,2026-09-23,C0079,MóvilMax Potosí (mayorista),SLP,Entregado,ACC-MIC-SA15,100,30
+PM-1114,2026-09-23,C0079,MóvilMax Potosí (mayorista),SLP,Entregado,ACC-CAB-CC2,100,70
+PM-1114,2026-09-23,C0079,MóvilMax Potosí (mayorista),SLP,Entregado,ACC-USB-032,50,95

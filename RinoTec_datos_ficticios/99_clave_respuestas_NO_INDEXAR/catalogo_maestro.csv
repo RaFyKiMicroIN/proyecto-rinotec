@@ -1,0 +1,41 @@
+﻿sku,nombre,categoria,proveedor_id,costo,precio_menudeo,precio_mayoreo_10+
+ACC-FUN-IP13,Funda TPU transparente iPhone 13,Accesorio,P01,28,129,65
+ACC-FUN-IP14,Funda TPU transparente iPhone 14,Accesorio,P01,28,129,65
+ACC-FUN-IP15,Funda TPU transparente iPhone 15,Accesorio,P01,30,139,70
+ACC-FUN-SA15,Funda TPU transparente Samsung A15,Accesorio,P08,22,99,50
+ACC-FUN-SA25,Funda TPU transparente Samsung A25,Accesorio,P08,22,99,50
+ACC-FUN-SA54,Funda uso rudo Samsung A54,Accesorio,P08,45,189,95
+ACC-MIC-IP15,Mica cristal templado 9H iPhone 15,Accesorio,P01,12,99,35
+ACC-MIC-IP14,Mica cristal templado 9H iPhone 14,Accesorio,P01,12,99,35
+ACC-MIC-SA15,Mica cristal templado 9H Samsung A15,Accesorio,P08,10,89,30
+ACC-CAR-C20,Cargador de pared USB-C 20W,Accesorio,P05,85,299,165
+ACC-CAR-C25,Cargador de pared USB-C 25W,Accesorio,P05,95,329,180
+ACC-CAB-CC1,Cable USB-C a USB-C 1 m,Accesorio,P06,25,119,55
+ACC-CAB-CC2,Cable USB-C a USB-C 2 m,Accesorio,P06,32,149,70
+ACC-CAB-CL1,Cable USB-C a Lightning 1 m,Accesorio,P06,35,159,75
+ACC-AUD-BT1,Audífonos inalámbricos Bluetooth in-ear,Accesorio,P05,150,499,290
+ACC-PWB-10K,Batería externa (power bank) 10000 mAh,Accesorio,P05,160,449,280
+ACC-SOP-AUT,Soporte magnético para auto,Accesorio,P08,35,149,75
+ACC-MSD-064,Memoria microSD 64 GB,Accesorio,P09,70,199,120
+ACC-MSD-128,Memoria microSD 128 GB,Accesorio,P09,115,299,185
+ACC-USB-032,Memoria USB 32 GB,Accesorio,P09,55,159,95
+ACC-MOU-INA,Mouse inalámbrico 2.4 GHz,Accesorio,P05,70,229,130
+ACC-TEC-USB,Teclado USB en español,Accesorio,P05,110,299,190
+REF-PAN-IP11,Pantalla LCD iPhone 11 (compatible),Refacción,P10,380,1290,690
+REF-PAN-IP12,Pantalla OLED iPhone 12 (compatible),Refacción,P10,720,2190,1250
+REF-PAN-IP13,Pantalla OLED iPhone 13 (compatible),Refacción,P10,850,2490,1450
+REF-PAN-SA32,Pantalla Samsung A32 con marco,Refacción,P02,520,1590,890
+REF-PAN-SA52,Pantalla Samsung A52 con marco,Refacción,P02,690,1990,1150
+REF-BAT-IP11,Batería iPhone 11,Refacción,P02,190,799,390
+REF-BAT-IP12,Batería iPhone 12,Refacción,P02,210,849,420
+REF-BAT-SA52,Batería Samsung A52,Refacción,P02,170,699,340
+REF-CCA-USBC,Centro de carga USB-C (flex),Refacción,P07,60,450,150
+REF-SSD-480,Unidad SSD SATA 480 GB,Refacción,P04,420,990,690
+REF-SSD-1TB,Unidad SSD NVMe 1 TB,Refacción,P04,850,1890,1290
+REF-RAM-8GB,Memoria RAM DDR4 8 GB SO-DIMM,Refacción,P04,330,790,520
+REF-TEC-HP14,"Teclado para laptop HP 14"" en español",Refacción,P07,260,790,450
+REF-VEN-LAP,Ventilador para laptop (universal 5 V),Refacción,P07,140,450,240
+REF-PAS-TER,Pasta térmica 4 g,Refacción,P03,45,150,80
+REF-HDD-1TB,"Disco duro 2.5"" 1 TB",Refacción,P03,520,1190,790
+REF-ELI-LAP,Eliminador para laptop 65 W punta universal,Refacción,P03,210,590,350
+REF-BIS-LAP,"Juego de bisagras laptop 15.6""",Refacción,P07,160,520,290

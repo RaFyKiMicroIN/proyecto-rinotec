@@ -1,0 +1,198 @@
+﻿id,fuente,fecha,sucursal,cliente_id,tema_esperado,sentimiento_esperado,caso_relacionado,texto
+Q001,correo,2026-08-01,ZAC,C0028,Precio mayoreo,neutral,,"Asunto: Lista de precios mayoreo
+
+Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+Q002,whatsapp,2026-08-01,AGS,C0057,Precio mayoreo,neutral,,Si compro 20 fundas me dan precio de mayoreo?
+Q003,whatsapp,2026-08-04,ZAC,C0027,Felicitación,positivo,,"Excelente atención de la chica de mostrador, gracias!"
+Q004,correo,2026-08-05,ZAC,C0022,Facturación,neutral,,"Asunto: Factura
+
+Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+Q005,correo,2026-08-05,AGS,C0067,Precio mayoreo,neutral,,"Asunto: Lista de precios mayoreo
+
+Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+Q006,llamada,2026-08-07,SLP,C0051,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q007,whatsapp,2026-08-08,LEO,C0034,Precio mayoreo,neutral,,Si compro 20 fundas me dan precio de mayoreo?
+Q008,whatsapp,2026-08-10,SLP,C0049,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Samsung A32? lo dejé el 03/08"
+Q009,whatsapp,2026-08-10,SLP,C0055,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q010,correo,2026-08-10,LEO,C0030,Precio mayoreo,neutral,,"Asunto: Lista de precios mayoreo
+
+Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+Q011,whatsapp,2026-08-11,LEO,C0033,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Samsung A32? lo dejé el 06/08"
+Q012,whatsapp,2026-08-11,SLP,C0045,Disponibilidad / precio,neutral,,Precio de mica para iPhone 15 por favor
+Q013,whatsapp,2026-08-11,GDL,C0002,Precios inconsistentes,negativo,,En León me dijeron un precio y aquí en Aguascalientes otro por la misma memoria 🤔
+Q014,llamada,2026-08-12,ZAC,C0028,Estado del equipo,neutral,,Pregunta por Acer Aspire 5 folio No. 1283. Se le dijo que sigue en revisión.
+Q015,llamada,2026-08-12,GDL,C0003,Servicio no ofrecido,neutral,,Pregunta si reparan consolas. Se le dijo que no.
+Q016,whatsapp,2026-08-12,GDL,C0014,Devolución accesorio,negativo,,"El cable que compré dejó de funcionar a los 3 días, lo puedo cambiar?"
+Q017,whatsapp,2026-08-12,GDL,C0007,Cotización de reparación,neutral,,Cuánto me sale el cambio de batería de iPhone 11?
+Q018,llamada,2026-08-14,AGS,C0061,Garantía,negativo,,"Cliente molesto, el Samsung A32 volvió a fallar a la semana de recogerlo."
+Q019,whatsapp,2026-08-14,AGS,C0067,Cobro / presupuesto,negativo,,"me cobraron $1350 y me habían dicho menos, por qué?"
+Q020,llamada,2026-08-14,SLP,C0050,Garantía,negativo,,"Cliente molesto, el Asus VivoBook 15 volvió a fallar a la semana de recogerlo."
+Q021,llamada,2026-08-14,ZAC,C0024,Disponibilidad / precio,neutral,,Pregunta si hay cargador de 25W y si hacen factura.
+Q022,whatsapp,2026-08-17,AGS,C0059,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q023,llamada,2026-08-18,GDL,C0009,Garantía,negativo,,"Cliente molesto, el Lenovo IdeaPad 3 volvió a fallar a la semana de recogerlo."
+Q024,whatsapp,2026-08-18,ZAC,C0020,Cobro / presupuesto,negativo,,"me cobraron $800 y me habían dicho menos, por qué?"
+Q025,whatsapp,2026-08-18,SLP,C0050,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q026,whatsapp,2026-08-19,LEO,C0039,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Motorola G54? lo dejé el 11/08"
+Q027,whatsapp,2026-08-19,AGS,C0057,Felicitación,positivo,,"Muchas gracias, el Xiaomi Redmi Note 12 quedó perfecto 👍 los recomiendo"
+Q028,llamada,2026-08-19,GDL,C0010,Disponibilidad / precio,neutral,,Pregunta si hay cargador de 25W y si hacen factura.
+Q029,llamada,2026-08-19,LEO,C0039,Servicio no ofrecido,neutral,,Pregunta si reparan consolas. Se le dijo que no.
+Q030,llamada,2026-08-20,AGS,C0059,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q031,whatsapp,2026-08-21,ZAC,C0017,Estado del equipo,neutral,,"Hola buenas, ya quedó mi iPhone 12? lo dejé el 17/08"
+Q032,whatsapp,2026-08-21,AGS,C0066,Felicitación,positivo,,"Muchas gracias, el HP 14"" quedó perfecto 👍 los recomiendo"
+Q033,whatsapp,2026-08-21,GDL,C0011,Precio mayoreo,neutral,,Si compro 20 fundas me dan precio de mayoreo?
+Q034,whatsapp,2026-08-21,AGS,C0066,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q035,correo,2026-08-23,GDL,C0009,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi Motorola G54 con folio OS-GDL-0358. Gracias."
+Q036,whatsapp,2026-08-24,GDL,C0009,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q037,llamada,2026-08-24,SLP,C0045,Disponibilidad / precio,neutral,,Pregunta si hay cargador de 25W y si hacen factura.
+Q038,llamada,2026-08-25,AGS,C0058,Garantía,negativo,,"Cliente molesto, el iPhone 12 volvió a fallar a la semana de recogerlo."
+Q039,whatsapp,2026-08-25,AGS,C0059,Retraso en reparación,negativo,,"oigan ya pasaron mas de 8 dias y no me dicen nada de mi HP 14"" 😡"
+Q040,whatsapp,2026-08-25,LEO,C0032,Felicitación,positivo,,"Excelente atención de la chica de mostrador, gracias!"
+Q041,whatsapp,2026-08-26,SLP,C0044,Precios inconsistentes,negativo,,En León me dijeron un precio y aquí en Aguascalientes otro por la misma memoria 🤔
+Q042,llamada,2026-08-27,GDL,C0014,Garantía,negativo,,"Cliente molesto, el Samsung A52 volvió a fallar a la semana de recogerlo."
+Q043,correo,2026-08-29,LEO,C0035,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi Dell Inspiron 15 con folio L-26-559. Gracias."
+Q044,llamada,2026-08-30,LEO,C0036,Garantía,negativo,,"Cliente molesto, el iPhone 13 volvió a fallar a la semana de recogerlo."
+Q045,correo,2026-08-30,SLP,C0053,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi Samsung A15 con folio SLP/1166. Gracias."
+Q046,whatsapp,2026-08-30,LEO,C0036,Retraso en reparación,negativo,,oigan ya pasaron mas de 8 dias y no me dicen nada de mi Motorola G54 😡
+Q047,whatsapp,2026-08-31,GDL,C0011,Estado del equipo,neutral,,"Hola buenas, ya quedó mi iPhone 13? lo dejé el 21/08"
+Q048,whatsapp,2026-08-31,AGS,C0059,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q049,llamada,2026-08-31,LEO,C0041,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q050,whatsapp,2026-08-31,LEO,C0034,Precio mayoreo,neutral,,Si compro 20 fundas me dan precio de mayoreo?
+Q051,llamada,2026-08-31,ZAC,C0015,Servicio no ofrecido,neutral,,Pregunta si reparan consolas. Se le dijo que no.
+Q052,llamada,2026-08-31,SLP,C0045,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q053,llamada,2026-09-01,LEO,C0030,Estado del equipo,neutral,,Pregunta por Acer Aspire 5 folio L-26-541. Se le dijo que sigue en revisión.
+Q054,llamada,2026-09-02,ZAC,C0019,Garantía,negativo,,"Cliente molesto, el Acer Aspire 5 volvió a fallar a la semana de recogerlo."
+Q055,whatsapp,2026-09-02,ZAC,C0028,Devolución accesorio,negativo,,"El cable que compré dejó de funcionar a los 3 días, lo puedo cambiar?"
+Q056,whatsapp,2026-09-03,AGS,C0070,Atención / no contestan,muy negativo,,nadie contesta el teléfono de la sucursal 😤
+Q057,llamada,2026-09-05,ZAC,C0019,Estado del equipo,neutral,,Pregunta por iPhone 12 folio No. 1270. Se le dijo que sigue en revisión.
+Q058,llamada,2026-09-05,SLP,C0054,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q059,whatsapp,2026-09-05,SLP,C0045,Cotización de reparación,neutral,,Cuánto me sale el cambio de batería de iPhone 11?
+Q060,whatsapp,2026-09-07,AGS,C0057,Felicitación,positivo,,"Muchas gracias, el Samsung A52 quedó perfecto 👍 los recomiendo"
+Q061,llamada,2026-09-07,ZAC,C0028,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q062,whatsapp,2026-09-07,AGS,C0070,Disponibilidad / precio,neutral,,Precio de mica para iPhone 15 por favor
+Q063,whatsapp,2026-09-08,SLP,C0056,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q064,llamada,2026-09-09,ZAC,C0019,Disponibilidad / precio,neutral,,Pregunta si hay cargador de 25W y si hacen factura.
+Q065,correo,2026-09-11,LEO,C0033,Precio mayoreo,neutral,,"Asunto: Lista de precios mayoreo
+
+Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+Q066,whatsapp,2026-09-13,GDL,C0012,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Acer Aspire 5? lo dejé el 07/09"
+Q067,whatsapp,2026-09-13,SLP,C0050,Cobro / presupuesto,negativo,,"me cobraron $1490 y me habían dicho menos, por qué?"
+Q068,whatsapp,2026-09-14,AGS,C0064,Precios inconsistentes,negativo,,En León me dijeron un precio y aquí en Aguascalientes otro por la misma memoria 🤔
+Q069,llamada,2026-09-14,AGS,C0062,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q070,llamada,2026-09-16,SLP,C0046,Garantía,negativo,,"Cliente molesto, el Lenovo IdeaPad 3 volvió a fallar a la semana de recogerlo."
+Q071,whatsapp,2026-09-20,SLP,C0047,Cobro / presupuesto,negativo,,"me cobraron $1120 y me habían dicho menos, por qué?"
+Q072,whatsapp,2026-09-21,ZAC,C0020,Precios inconsistentes,negativo,,En León me dijeron un precio y aquí en Aguascalientes otro por la misma memoria 🤔
+Q073,whatsapp,2026-09-21,SLP,C0044,Precios inconsistentes,negativo,,En León me dijeron un precio y aquí en Aguascalientes otro por la misma memoria 🤔
+Q074,whatsapp,2026-09-21,LEO,C0036,Precio mayoreo,neutral,,Si compro 20 fundas me dan precio de mayoreo?
+Q075,whatsapp,2026-09-21,ZAC,C0016,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q076,whatsapp,2026-09-22,SLP,C0052,Estado del equipo,neutral,,"Hola buenas, ya quedó mi iPhone 13? lo dejé el 19/09"
+Q077,whatsapp,2026-09-23,ZAC,C0019,Estado del equipo,neutral,,"Hola buenas, ya quedó mi iPhone 11? lo dejé el 11/09"
+Q078,llamada,2026-09-23,ZAC,C0072,Estado del equipo,neutral,,"Pregunta por HP 14"" folio No. 1267. Se le dijo que sigue en revisión."
+Q079,whatsapp,2026-09-24,ZAC,C0072,Felicitación,positivo,,"Muchas gracias, el HP 14"" quedó perfecto 👍 los recomiendo"
+Q080,whatsapp,2026-09-25,LEO,C0038,Cotización de reparación,neutral,,Cuánto me sale el cambio de batería de iPhone 11?
+Q081,whatsapp,2026-09-25,AGS,C0058,Cotización de reparación,neutral,,Cuánto me sale el cambio de batería de iPhone 11?
+Q082,whatsapp,2026-09-25,GDL,C0005,Disponibilidad / precio,neutral,,Precio de mica para iPhone 15 por favor
+Q083,whatsapp,2026-09-26,GDL,C0003,Disponibilidad / precio,neutral,,Precio de mica para iPhone 15 por favor
+Q084,whatsapp,2026-09-26,AGS,C0069,Cotización de reparación,neutral,,Cuánto me sale el cambio de batería de iPhone 11?
+Q085,whatsapp,2026-09-28,GDL,C0003,Disponibilidad / precio,neutral,,Precio de mica para iPhone 15 por favor
+Q086,llamada,2026-09-29,AGS,C0066,Garantía,negativo,,"Cliente molesto, el Motorola G54 volvió a fallar a la semana de recogerlo."
+Q087,whatsapp,2026-09-29,AGS,C0068,Devolución accesorio,negativo,,"El cable que compré dejó de funcionar a los 3 días, lo puedo cambiar?"
+Q088,whatsapp,2026-09-29,AGS,C0065,Felicitación,positivo,,"Excelente atención de la chica de mostrador, gracias!"
+Q089,llamada,2026-09-29,SLP,C0054,Disponibilidad / precio,neutral,,Pregunta si hay cargador de 25W y si hacen factura.
+Q090,whatsapp,2026-09-29,SLP,C0047,Felicitación,positivo,,"Excelente atención de la chica de mostrador, gracias!"
+Q091,correo,2026-09-29,ZAC,C0017,Facturación,neutral,,"Asunto: Factura
+
+Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+Q092,llamada,2026-09-29,ZAC,C0016,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q093,llamada,2026-09-30,GDL,C0002,Estado del equipo,neutral,,Pregunta por Asus VivoBook 15 folio OS-GDL-0345. Se le dijo que sigue en revisión.
+Q094,whatsapp,2026-09-30,GDL,C0008,Precios inconsistentes,negativo,,En León me dijeron un precio y aquí en Aguascalientes otro por la misma memoria 🤔
+Q095,whatsapp,2026-10-01,SLP,C0071,Estado del equipo,neutral,,"Hola buenas, ya quedó mi HP 14""? lo dejé el 24/09"
+Q096,whatsapp,2026-10-01,LEO,C0038,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Samsung A32? lo dejé el 28/09"
+Q097,llamada,2026-10-01,SLP,C0071,Estado del equipo,neutral,,Pregunta por Dell Inspiron 15 folio SLP/1111. Se le dijo que sigue en revisión.
+Q098,correo,2026-10-01,SLP,C0045,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi Xiaomi Redmi Note 12 con folio SLP/1170. Gracias."
+Q099,correo,2026-10-02,SLP,C0071,Retraso en reparación,negativo,CASO-ESCUELA,"Asunto: Estado de las 4 laptops
+
+Buen día, dejamos 4 laptops el 24 de septiembre para cambio de disco. Nos dijeron 5 días. ¿Para cuándo estarán? Las necesitan los maestros."
+Q100,whatsapp,2026-10-02,SLP,C0071,Retraso en reparación,negativo,,oigan ya pasaron mas de 8 dias y no me dicen nada de mi Dell Inspiron 15 😡
+Q101,whatsapp,2026-10-05,AGS,C0064,Cobro / presupuesto,negativo,,"me cobraron $1140 y me habían dicho menos, por qué?"
+Q102,whatsapp,2026-10-05,SLP,C0045,Disponibilidad / precio,neutral,,Precio de mica para iPhone 15 por favor
+Q103,llamada,2026-10-05,AGS,C0062,Servicio no ofrecido,neutral,,Pregunta si reparan consolas. Se le dijo que no.
+Q104,whatsapp,2026-10-06,ZAC,C0018,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Motorola G54? lo dejé el 26/09"
+Q105,llamada,2026-10-06,AGS,C0066,Garantía,neutral,,Pregunta cuánto tiempo de garantía tiene una reparación de pantalla. Se le dijo 30 días (?).
+Q106,whatsapp,2026-10-08,ZAC,C0021,Retraso en reparación,negativo,,oigan ya pasaron mas de 8 dias y no me dicen nada de mi Samsung A52 😡
+Q107,whatsapp,2026-10-08,GDL,C0005,Cotización de reparación,neutral,,Cuánto me sale el cambio de batería de iPhone 11?
+Q108,whatsapp,2026-10-09,SLP,C0079,Pedido mayoreo incompleto,negativo,CASO-MAYORISTA,"Buenas tardes, del pedido PM-1104 nos llegaron incompletas las fundas de iPhone 15, faltan 40 piezas. Quién nos ayuda?"
+Q109,whatsapp,2026-10-09,LEO,C0042,Cobro / presupuesto,negativo,,"me cobraron $600 y me habían dicho menos, por qué?"
+Q110,whatsapp,2026-10-09,SLP,C0056,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q111,llamada,2026-10-10,SLP,C0071,Retraso en reparación,negativo,CASO-ESCUELA,Colegio Valle Verde pregunta por sus laptops. Rosa dice que falta el SSD. No hay fecha.
+Q112,llamada,2026-10-10,GDL,C0075,Estado del equipo,neutral,,Pregunta por PC de escritorio ensamblada folio OS-GDL-0333. Se le dijo que sigue en revisión.
+Q113,correo,2026-10-10,ZAC,C0017,Facturación,neutral,,"Asunto: Factura
+
+Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+Q114,correo,2026-10-10,GDL,C0010,Precio mayoreo,neutral,,"Asunto: Lista de precios mayoreo
+
+Somos una tienda nueva en Aguascalientes, ¿nos pueden compartir su lista de precios de mayoreo?"
+Q115,whatsapp,2026-10-11,GDL,C0010,Cobro / presupuesto,negativo,,"me cobraron $600 y me habían dicho menos, por qué?"
+Q116,llamada,2026-10-12,SLP,C0079,Pedido mayoreo incompleto,negativo,CASO-MAYORISTA,"Llamó MóvilMax, dice que le faltó mercancía en su pedido. Se le dijo que se revisa con GDL y se le regresa la llamada."
+Q117,whatsapp,2026-10-12,LEO,C0078,Estado pedido mayoreo,neutral,,Para cuándo llega el pedido PM-1108?
+Q118,llamada,2026-10-13,LEO,C0042,Servicio no ofrecido,neutral,,Pregunta si reparan consolas. Se le dijo que no.
+Q119,llamada,2026-10-14,GDL,C0075,Garantía,negativo,,"Cliente molesto, el HP 14"" volvió a fallar a la semana de recogerlo."
+Q120,correo,2026-10-15,GDL,C0075,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi Lenovo IdeaPad 3 con folio OS-GDL-0329. Gracias."
+Q121,whatsapp,2026-10-16,AGS,C0070,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q122,correo,2026-10-17,SLP,C0079,Pedido mayoreo incompleto,muy negativo,CASO-MAYORISTA,"Asunto: Faltante pedido PM-1104
+
+Es la tercera vez que reportamos el faltante de 40 fundas transparentes iPhone 15. Ya tenemos clientes esperando. Si no se resuelve esta semana vamos a buscar otro proveedor.
+
+Atte. Compras MóvilMax Potosí"
+Q123,whatsapp,2026-10-17,SLP,C0050,Cobro / presupuesto,negativo,,"me cobraron $1590 y me habían dicho menos, por qué?"
+Q124,whatsapp,2026-10-17,AGS,C0069,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q125,whatsapp,2026-10-18,AGS,C0032,Retraso en reparación,negativo,,oigan ya pasaron mas de 8 dias y no me dicen nada de mi Dell Inspiron 15 😡
+Q126,whatsapp,2026-10-18,ZAC,C0015,Retraso en reparación,negativo,,oigan ya pasaron mas de 8 dias y no me dicen nada de mi iPhone 12 😡
+Q127,whatsapp,2026-10-19,ZAC,C0019,Garantía,negativo,CASO-GARANTIA,"Hola, en septiembre me cambiaron la pantalla de mi iPhone 12 y ya me está fallando el touch. Perdí la nota, ¿me la cubre la garantía? Cuántos días de garantía dan?"
+Q128,llamada,2026-10-19,SLP,C0050,Servicio no ofrecido,neutral,,Pregunta si reparan consolas. Se le dijo que no.
+Q129,llamada,2026-10-19,GDL,C0013,Disponibilidad / precio,neutral,,Pregunta si hay cargador de 25W y si hacen factura.
+Q130,correo,2026-10-19,ZAC,C0025,Facturación,neutral,,"Asunto: Factura
+
+Necesito la factura de mi compra del día de ayer, adjunto mis datos fiscales."
+Q131,whatsapp,2026-10-19,AGS,C0058,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q132,correo,2026-10-21,SLP,C0071,Retraso en reparación,muy negativo,CASO-ESCUELA,"Asunto: URGENTE laptops
+
+Llevamos casi un mes sin equipos. Les recuerdo que tenemos contrato de mantenimiento. Vamos a reconsiderar la renovación del contrato."
+Q133,llamada,2026-10-21,SLP,C0056,Estado del equipo,neutral,,Pregunta por Lenovo IdeaPad 3 folio SLP/1127. Se le dijo que sigue en revisión.
+Q134,whatsapp,2026-10-21,GDL,C0003,Precio mayoreo,neutral,,Si compro 20 fundas me dan precio de mayoreo?
+Q135,whatsapp,2026-10-21,GDL,C0076,Estado pedido mayoreo,neutral,,Para cuándo llega el pedido PM-1106?
+Q136,llamada,2026-10-22,LEO,C0029,Estado del equipo,negativo,CASO-OTRA-SUCURSAL,"Cliente pregunta por su Samsung A52 (folio L-26-538). No está en la sucursal, al parecer se mandó a otra. Se promete devolver la llamada."
+Q137,whatsapp,2026-10-22,AGS,C0066,Retraso en reparación,negativo,,"oigan ya pasaron mas de 8 dias y no me dicen nada de mi HP 14"" 😡"
+Q138,llamada,2026-10-22,SLP,C0053,Garantía,negativo,,"Cliente molesto, el Motorola G54 volvió a fallar a la semana de recogerlo."
+Q139,whatsapp,2026-10-23,ZAC,C0024,Felicitación,positivo,,"Muchas gracias, el Xiaomi Redmi Note 12 quedó perfecto 👍 los recomiendo"
+Q140,whatsapp,2026-10-24,GDL,C0079,Pedido mayoreo incompleto,muy negativo,CASO-MAYORISTA,Ya van 3 semanas y nadie nos resuelve lo de las 40 fundas que faltaron. Muy mal servicio la verdad.
+Q141,llamada,2026-10-24,AGS,C0065,Garantía,negativo,,"Cliente molesto, el Samsung A52 volvió a fallar a la semana de recogerlo."
+Q142,whatsapp,2026-10-25,SLP,C0053,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Samsung A52? lo dejé el 23/10"
+Q143,whatsapp,2026-10-26,GDL,C0008,Disponibilidad / precio,neutral,,Tienen funda para Samsung A25? cuánto cuesta
+Q144,llamada,2026-10-27,AGS,C0065,Estado del equipo,negativo,CASO-OTRA-SUCURSAL,"Cliente pregunta por su Samsung A52 (folio #596). No está en la sucursal, al parecer se mandó a otra. Se promete devolver la llamada."
+Q145,whatsapp,2026-10-27,GDL,C0013,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Xiaomi Redmi Note 12? lo dejé el 15/10"
+Q146,whatsapp,2026-10-28,GDL,C0013,Felicitación,positivo,,"Muchas gracias, el iPhone 13 quedó perfecto 👍 los recomiendo"
+Q147,correo,2026-10-28,SLP,C0052,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi iPhone 13 con folio SLP/1115. Gracias."
+Q148,whatsapp,2026-10-29,LEO,C0033,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Dell Inspiron 15? lo dejé el 23/10"
+Q149,whatsapp,2026-10-30,SLP,C0043,Retraso en reparación,negativo,,oigan ya pasaron mas de 8 dias y no me dicen nada de mi Samsung A15 😡
+Q150,whatsapp,2026-10-31,SLP,C0051,Cobro / presupuesto,negativo,,"me cobraron $800 y me habían dicho menos, por qué?"
+Q151,correo,2026-11-01,ZAC,C0019,Estado del equipo,neutral,,"Asunto: Seguimiento a mi equipo
+
+Buenas tardes, quisiera saber el estado de mi iPhone 12 con folio No. 1274. Gracias."
+Q152,llamada,2026-11-01,LEO,C0038,Garantía,negativo,,"Cliente molesto, el iPhone 13 volvió a fallar a la semana de recogerlo."
+Q153,llamada,2026-11-02,SLP,C0048,Estado del equipo,neutral,,Pregunta por Samsung A32 folio SLP/1158. Se le dijo que sigue en revisión.
+Q154,whatsapp,2026-11-02,GDL,C0010,Felicitación,positivo,,"Muchas gracias, el iPhone 11 quedó perfecto 👍 los recomiendo"
+Q155,whatsapp,2026-11-04,SLP,C0046,Cobro / presupuesto,negativo,,"me cobraron $2640 y me habían dicho menos, por qué?"
+Q156,whatsapp,2026-11-04,GDL,C0003,Estado del equipo,neutral,,"Hola buenas, ya quedó mi Acer Aspire 5? lo dejé el 26/10"
+Q157,whatsapp,2026-11-10,ZAC,C0018,Felicitación,positivo,,"Muchas gracias, el Samsung A52 quedó perfecto 👍 los recomiendo"

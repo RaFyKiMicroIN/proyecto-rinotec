@@ -1,0 +1,41 @@
+﻿id,proveedor,rfc_emisor,serie_folio,fecha,sucursal,subtotal,iva,total,comprador,formato,legible,archivos,observacion
+F007,Accesorios Móviles del Bajío S.A. de C.V.,FIC150420AM2,A-2757,2026-08-05,LEO,3318.07,530.89,3848.96,Raúl Vázquez Mora,pdf+foto,sí,correo_raul.vazquez_hotmail/factura_final 2.pdf | whatsapp_fotos/IMG-20260805-WA0507.jpg,DUPLICADA: misma factura en PDF y foto; PAGADA DOS VECES en captura de Laura
+F037,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7649,2026-08-07,LEO,1357.74,217.24,1574.98,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/factura_final.pdf,
+F001,Distribuidora Tecnológica Potosina S. de R.L.,FIC120102DT8,A-6025,2026-08-10,LEO,7313.68,1170.19,8483.87,Alma Rosales Durán,pdf,sí,correo_alma.rosales_gmail/Documento.pdf,
+F033,Cables y Conectores del Centro S.A. de C.V.,FIC160225CC9,FAC-7377,2026-08-14,ZAC,1004.85,160.78,1165.63,Karla Ibáñez Soto,pdf+foto,sí,correo_karla.ibanez_outlook/factura.pdf | whatsapp_fotos/IMG-20260815-WA0871.jpg,DUPLICADA: misma factura en PDF y foto
+F011,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2196,2026-08-17,GDL,903.94,144.63,1048.57,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/Documento.pdf,
+F038,Distribuidora Tecnológica Potosina S. de R.L.,FIC120102DT8,A-6053,2026-08-17,GDL,2242.6,358.82,2601.42,Alma Rosales Durán,pdf,sí,correo_alma.rosales_gmail/CFDI.pdf,
+F029,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2285,2026-08-18,AGS,3059.82,489.57,3549.39,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/factura_final.pdf,
+F022,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2255,2026-08-20,LEO,3955.58,632.89,4588.47,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/Documento (2).pdf,ERROR DE CAPTURA: total capturado 5488.47 (dígitos invertidos; real 4588.47)
+F019,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5323,2026-08-21,LEO,10080.74,1612.92,11693.66,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/Documento (3).pdf,
+F021,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7629,2026-08-25,AGS,3312.46,529.99,3842.45,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/MegaAccesorios_7629.pdf,
+F032,Pantallas y Displays Express S.A. de C.V.,FIC200129PD2,FAC-7605,2026-08-26,SLP,2160.0,345.6,2505.6,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/factura_final (2).pdf,
+F005,Almacenamiento Digital del Norte S.A. de C.V.,FIC130505AD7,A-7365,2026-08-29,AGS,4855.3,776.85,5632.15,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/FACT.pdf,
+F028,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5373,2026-08-31,LEO,4249.7,679.95,4929.65,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/CompuPartes_5373.pdf,ERROR DE CAPTURA: fecha capturada 2026-07-31 (real 2026-08-31)
+F036,Almacenamiento Digital del Norte S.A. de C.V.,FIC130505AD7,A-7422,2026-08-31,AGS,11355.34,1816.85,13172.19,Alma Rosales Durán,pdf+foto,sí,correo_alma.rosales_gmail/Almacenamiento_7422.pdf | whatsapp_fotos/IMG-20260831-WA0901.jpg,DUPLICADA: misma factura en PDF y foto
+F017,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2235,2026-09-01,AGS,4367.44,698.79,5066.23,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/FACT.pdf,
+F010,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7589,2026-09-02,ZAC,4253.17,680.51,4933.68,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/FACT (2).pdf,
+F034,Pantallas y Displays Express S.A. de C.V.,FIC200129PD2,FAC-7611,2026-09-03,ZAC,12477.32,1996.37,14473.69,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/factura_final 2.pdf,
+F024,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2263,2026-09-11,AGS,1275.93,204.15,1480.08,Alma Rosales Durán,foto,no,whatsapp_fotos/IMG-20260912-WA0809.jpg,ILEGIBLE: debe ir a revisión humana
+F004,Refacciones Celulares de Occidente S.A. de C.V.,FIC170811RC5,FAC-4576,2026-09-16,AGS,6202.74,992.44,7195.18,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/scan.pdf,
+F006,Pantallas y Displays Express S.A. de C.V.,FIC200129PD2,FAC-7595,2026-09-17,ZAC,9732.47,1557.2,11289.67,Alma Rosales Durán,pdf,sí,correo_alma.rosales_gmail/scan.pdf,
+F012,Almacenamiento Digital del Norte S.A. de C.V.,FIC130505AD7,A-7368,2026-09-19,GDL,11338.36,1814.14,13152.5,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/Almacenamiento_7368.pdf,
+F020,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7607,2026-09-21,AGS,4428.63,708.58,5137.21,Karla Ibáñez Soto,foto,sí,whatsapp_fotos/IMG-20260923-WA0789.jpg,
+F003,Accesorios Móviles del Bajío S.A. de C.V.,FIC150420AM2,A-2736,2026-09-30,ZAC,980.3,156.85,1137.15,Alma Rosales Durán,pdf,sí,correo_alma.rosales_gmail/Accesorios_2736.pdf,
+F040,Accesorios Móviles del Bajío S.A. de C.V.,FIC150420AM2,A-2815,2026-09-30,GDL,3589.32,574.29,4163.61,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/Documento.pdf,
+F009,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7560,2026-10-02,AGS,750.42,120.07,870.49,Karla Ibáñez Soto,foto,sí,whatsapp_fotos/IMG-20261002-WA0181.jpg,
+F035,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2316,2026-10-02,AGS,583.0,93.28,676.28,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/Documento (2).pdf,
+F023,Importadora Electrónica Tapatía S.A. de C.V.,FIC140617IE4,A-1544,2026-10-03,ZAC,9263.09,1482.09,10745.18,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/factura.pdf,
+F015,Refacciones Celulares de Occidente S.A. de C.V.,FIC170811RC5,FAC-4649,2026-10-05,SLP,4728.69,756.59,5485.28,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/scan (2).pdf,
+F030,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5390,2026-10-10,ZAC,9174.46,1467.91,10642.37,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/FACT (2).pdf,
+F026,Importadora Electrónica Tapatía S.A. de C.V.,FIC140617IE4,A-1579,2026-10-12,ZAC,22111.88,3537.9,25649.78,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/CFDI.pdf,
+F013,Refacciones Celulares de Occidente S.A. de C.V.,FIC170811RC5,FAC-4613,2026-10-16,AGS,12912.81,2066.05,14978.86,Alma Rosales Durán,pdf,sí,correo_alma.rosales_gmail/Refacciones_4613.pdf,
+F025,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5360,2026-10-17,GDL,9070.22,1451.24,10521.46,Alma Rosales Durán,pdf,sí,correo_alma.rosales_gmail/Documento (2).pdf,
+F031,Accesorios Móviles del Bajío S.A. de C.V.,FIC150420AM2,A-2796,2026-10-20,LEO,545.4,87.26,632.66,Raúl Vázquez Mora,foto,no,whatsapp_fotos/IMG-20261022-WA0867.jpg,ILEGIBLE: debe ir a revisión humana
+F002,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5285,2026-10-23,AGS,6448.38,1031.74,7480.12,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/factura (2).pdf,
+F008,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5296,2026-10-23,GDL,7808.57,1249.37,9057.94,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/Documento (3).pdf,
+F014,Almacenamiento Digital del Norte S.A. de C.V.,FIC130505AD7,A-7391,2026-10-24,LEO,11899.76,1903.96,13803.72,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/factura (3).pdf,
+F027,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7633,2026-10-26,SLP,2674.04,427.85,3101.89,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/factura_final (3).pdf,
+F039,CompuPartes Zacatecas S.A. de C.V.,FIC180930CZ1,FAC-5426,2026-10-29,AGS,2268.93,363.03,2631.96,Karla Ibáñez Soto,pdf,sí,correo_karla.ibanez_outlook/Documento (4).pdf,
+F016,Electro Refacciones León S.A. de C.V.,FIC190314ER3,A-2216,2026-10-30,GDL,506.44,81.03,587.47,Karla Ibáñez Soto,pdf+foto,sí,correo_karla.ibanez_outlook/factura_final 2 (2).pdf | whatsapp_fotos/IMG-20261030-WA0044.jpg,DUPLICADA: misma factura en PDF y foto
+F018,MegaAccesorios Mayoristas S.A. de C.V.,FIC210708MA6,FAC-7602,2026-10-30,SLP,3455.32,552.85,4008.17,Raúl Vázquez Mora,pdf,sí,correo_raul.vazquez_hotmail/factura_final 2 (2).pdf,

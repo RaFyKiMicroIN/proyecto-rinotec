@@ -1,0 +1,170 @@
+﻿sucursal,archivo,clave_local,nombre_local,sku_maestro,nombre_maestro,observacion
+GDL,Inventario_GDL_2026.xlsx,GDL-0001,VENTILADOR PARA LAPTOP (UNIVERSAL 5 V),REF-VEN-LAP,Ventilador para laptop (universal 5 V),
+GDL,Inventario_GDL_2026.xlsx,GDL-0002,BATERIA SAMSUNG A52,REF-BAT-SA52,Batería Samsung A52,
+GDL,Inventario_GDL_2026.xlsx,GDL-0003,BATERIA IPHONE 12,REF-BAT-IP12,Batería iPhone 12,
+GDL,Inventario_GDL_2026.xlsx,GDL-0004,UNIDAD SSD NVME 1 TB,REF-SSD-1TB,Unidad SSD NVMe 1 TB,
+GDL,Inventario_GDL_2026.xlsx,GDL-0005,CABLE USB-C A USB-C 2 M,ACC-CAB-CC2,Cable USB-C a USB-C 2 m,
+GDL,Inventario_GDL_2026.xlsx,GDL-0006,CABLE USB-C A USB-C 1 M,ACC-CAB-CC1,Cable USB-C a USB-C 1 m,
+GDL,Inventario_GDL_2026.xlsx,GDL-0007,PASTA TERMICA 4 G,REF-PAS-TER,Pasta térmica 4 g,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0008,CENTRO DE CARGA USB-C (FLEX),REF-CCA-USBC,Centro de carga USB-C (flex),
+GDL,Inventario_GDL_2026.xlsx,GDL-0009,"TECLADO PARA LAPTOP HP 14"" EN ESPANOL",REF-TEC-HP14,"Teclado para laptop HP 14"" en español",
+GDL,Inventario_GDL_2026.xlsx,GDL-0010,FUNDA TPU TRANSPARENTE SAMSUNG A15,ACC-FUN-SA15,Funda TPU transparente Samsung A15,
+GDL,Inventario_GDL_2026.xlsx,GDL-0011,AUDIFONOS INALAMBRICOS BLUETOOTH IN-EAR,ACC-AUD-BT1,Audífonos inalámbricos Bluetooth in-ear,
+GDL,Inventario_GDL_2026.xlsx,GDL-0012,CARGADOR DE PARED USB-C 20W,ACC-CAR-C20,Cargador de pared USB-C 20W,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0013,FUNDA TPU TRANSPARENTE SAMSUNG A25,ACC-FUN-SA25,Funda TPU transparente Samsung A25,
+GDL,Inventario_GDL_2026.xlsx,GDL-0014,FUNDA TPU TRANSPARENTE IPHONE 15,ACC-FUN-IP15,Funda TPU transparente iPhone 15,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0015,MEMORIA MICROSD 64 GB,ACC-MSD-064,Memoria microSD 64 GB,
+GDL,Inventario_GDL_2026.xlsx,GDL-0016,PANTALLA LCD IPHONE 11 (COMPATIBLE),REF-PAN-IP11,Pantalla LCD iPhone 11 (compatible),precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0017,MOUSE INALAMBRICO 2.4 GHZ,ACC-MOU-INA,Mouse inalámbrico 2.4 GHz,
+GDL,Inventario_GDL_2026.xlsx,GDL-0018,FUNDA TPU TRANSPARENTE IPHONE 14,ACC-FUN-IP14,Funda TPU transparente iPhone 14,
+GDL,Inventario_GDL_2026.xlsx,GDL-0019,MEMORIA USB 32 GB,ACC-USB-032,Memoria USB 32 GB,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0020,"JUEGO DE BISAGRAS LAPTOP 15.6""",REF-BIS-LAP,"Juego de bisagras laptop 15.6""",
+GDL,Inventario_GDL_2026.xlsx,GDL-0021,ELIMINADOR PARA LAPTOP 65 W PUNTA UNIVERSAL,REF-ELI-LAP,Eliminador para laptop 65 W punta universal,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0022,FUNDA USO RUDO SAMSUNG A54,ACC-FUN-SA54,Funda uso rudo Samsung A54,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0023,FUNDA TPU TRANSPARENTE IPHONE 13,ACC-FUN-IP13,Funda TPU transparente iPhone 13,
+GDL,Inventario_GDL_2026.xlsx,GDL-0024,SOPORTE MAGNETICO PARA AUTO,ACC-SOP-AUT,Soporte magnético para auto,
+GDL,Inventario_GDL_2026.xlsx,GDL-0025,PANTALLA SAMSUNG A52 CON MARCO,REF-PAN-SA52,Pantalla Samsung A52 con marco,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0026,PANTALLA SAMSUNG A32 CON MARCO,REF-PAN-SA32,Pantalla Samsung A32 con marco,
+GDL,Inventario_GDL_2026.xlsx,GDL-0027,TECLADO USB EN ESPANOL,ACC-TEC-USB,Teclado USB en español,
+GDL,Inventario_GDL_2026.xlsx,GDL-0028,MEMORIA RAM DDR4 8 GB SO-DIMM,REF-RAM-8GB,Memoria RAM DDR4 8 GB SO-DIMM,precio distinto al maestro
+GDL,Inventario_GDL_2026.xlsx,GDL-0029,PANTALLA OLED IPHONE 12 (COMPATIBLE),REF-PAN-IP12,Pantalla OLED iPhone 12 (compatible),
+GDL,Inventario_GDL_2026.xlsx,GDL-0030,"DISCO DURO 2.5"" 1 TB",REF-HDD-1TB,"Disco duro 2.5"" 1 TB",
+GDL,Inventario_GDL_2026.xlsx,GDL-0031,CABLE USB-C A LIGHTNING 1 M,ACC-CAB-CL1,Cable USB-C a Lightning 1 m,
+GDL,Inventario_GDL_2026.xlsx,GDL-0032,MICA CRISTAL TEMPLADO 9H IPHONE 14,ACC-MIC-IP14,Mica cristal templado 9H iPhone 14,
+GDL,Inventario_GDL_2026.xlsx,GDL-0033,MEMORIA MICROSD 128 GB,ACC-MSD-128,Memoria microSD 128 GB,
+GDL,Inventario_GDL_2026.xlsx,GDL-0005B,CBL USB-C-C 2 M,ACC-CAB-CC2,Cable USB-C a USB-C 2 m,DUPLICADO interno del mismo producto; existencia real = suma
+ZAC,inventario zacatecas.csv,852,BATERIA IPH12,REF-BAT-IP12,Batería iPhone 12,
+ZAC,inventario zacatecas.csv,654,"TECLADO LAP HP 14"" ESP",REF-TEC-HP14,"Teclado para laptop HP 14"" en español",
+ZAC,inventario zacatecas.csv,130,PANT OLED IPH12 GEN,REF-PAN-IP12,Pantalla OLED iPhone 12 (compatible),
+ZAC,inventario zacatecas.csv,335,FUNDA TPU IPH15,ACC-FUN-IP15,Funda TPU transparente iPhone 15,precio distinto al maestro
+ZAC,inventario zacatecas.csv,775,MICA 9H SAM A15,ACC-MIC-SA15,Mica cristal templado 9H Samsung A15,
+ZAC,inventario zacatecas.csv,476,TECLADO USB ESP,ACC-TEC-USB,Teclado USB en español,
+ZAC,inventario zacatecas.csv,307,PANT LCD IPH11 GEN,REF-PAN-IP11,Pantalla LCD iPhone 11 (compatible),
+ZAC,inventario zacatecas.csv,450,FUNDA RUDA SAM A54,ACC-FUN-SA54,Funda uso rudo Samsung A54,
+ZAC,inventario zacatecas.csv,434,CENTRO DE CARGA USB-C (FLEX),REF-CCA-USBC,Centro de carga USB-C (flex),
+ZAC,inventario zacatecas.csv,923,"JUEGO DE BISAGRAS LAPTOP 15.6""",REF-BIS-LAP,"Juego de bisagras laptop 15.6""",precio distinto al maestro
+ZAC,inventario zacatecas.csv,697,PASTA TERMICA 4 G,REF-PAS-TER,Pasta térmica 4 g,
+ZAC,inventario zacatecas.csv,459,BATERIA IPH11,REF-BAT-IP11,Batería iPhone 11,precio distinto al maestro
+ZAC,inventario zacatecas.csv,383,SSD SATA 480 GB,REF-SSD-480,Unidad SSD SATA 480 GB,
+ZAC,inventario zacatecas.csv,381,CBL USB-C-LIGHT 1 M,ACC-CAB-CL1,Cable USB-C a Lightning 1 m,
+ZAC,inventario zacatecas.csv,632,PANT SAM A32 C/MARCO,REF-PAN-SA32,Pantalla Samsung A32 con marco,
+ZAC,inventario zacatecas.csv,959,FUNDA TPU IPH13,ACC-FUN-IP13,Funda TPU transparente iPhone 13,
+ZAC,inventario zacatecas.csv,384,POWERBANK 10000 MAH,ACC-PWB-10K,Batería externa (power bank) 10000 mAh,precio distinto al maestro
+ZAC,inventario zacatecas.csv,684,MEM MICROSD 128 GB,ACC-MSD-128,Memoria microSD 128 GB,
+ZAC,inventario zacatecas.csv,677,PANT OLED IPH13 GEN,REF-PAN-IP13,Pantalla OLED iPhone 13 (compatible),
+ZAC,inventario zacatecas.csv,294,MEM USB 32 GB,ACC-USB-032,Memoria USB 32 GB,precio distinto al maestro
+ZAC,inventario zacatecas.csv,343,CBL USB-C-C 2 M,ACC-CAB-CC2,Cable USB-C a USB-C 2 m,
+ZAC,inventario zacatecas.csv,557,MOUSE INALAMBRICO 2.4 GHZ,ACC-MOU-INA,Mouse inalámbrico 2.4 GHz,precio distinto al maestro
+ZAC,inventario zacatecas.csv,926,ELIMINADOR LAP 65 W PUNTA UNIVERSAL,REF-ELI-LAP,Eliminador para laptop 65 W punta universal,
+ZAC,inventario zacatecas.csv,304,BATERIA SAM A52,REF-BAT-SA52,Batería Samsung A52,
+ZAC,inventario zacatecas.csv,873,SOPORTE MAGNETICO PARA AUTO,ACC-SOP-AUT,Soporte magnético para auto,precio distinto al maestro
+ZAC,inventario zacatecas.csv,283,FUNDA TPU IPH14,ACC-FUN-IP14,Funda TPU transparente iPhone 14,
+ZAC,inventario zacatecas.csv,652,CARG USB-C 25W,ACC-CAR-C25,Cargador de pared USB-C 25W,
+ZAC,inventario zacatecas.csv,874,AUDIF BT,ACC-AUD-BT1,Audífonos inalámbricos Bluetooth in-ear,
+ZAC,inventario zacatecas.csv,816,FUNDA TPU SAM A25,ACC-FUN-SA25,Funda TPU transparente Samsung A25,
+ZAC,inventario zacatecas.csv,839,MICA 9H IPH15,ACC-MIC-IP15,Mica cristal templado 9H iPhone 15,
+ZAC,inventario zacatecas.csv,775B,Protector de pantalla Samsung A15,ACC-MIC-SA15,Mica cristal templado 9H Samsung A15,DUPLICADO interno del mismo producto; existencia real = suma
+LEO,LEON existencias (actualizado).xlsx,P09-4411,MicroSD 64 GB,ACC-MSD-064,Memoria microSD 64 GB,
+LEO,LEON existencias (actualizado).xlsx,P04-9588,Disco sólido SATA 480 GB,REF-SSD-480,Unidad SSD SATA 480 GB,
+LEO,LEON existencias (actualizado).xlsx,P01-7735,Case transparente 14,ACC-FUN-IP14,Funda TPU transparente iPhone 14,
+LEO,LEON existencias (actualizado).xlsx,P06-7177,Cable USB-C a Lightning 1 m,ACC-CAB-CL1,Cable USB-C a Lightning 1 m,precio distinto al maestro
+LEO,LEON existencias (actualizado).xlsx,P08-9454,Case clear Sam A25,ACC-FUN-SA25,Funda TPU transparente Samsung A25,
+LEO,LEON existencias (actualizado).xlsx,P02-2997,Batería iPhone 11,REF-BAT-IP11,Batería iPhone 11,
+LEO,LEON existencias (actualizado).xlsx,P01-9826,Case transparente 15,ACC-FUN-IP15,Funda TPU transparente iPhone 15,precio distinto al maestro
+LEO,LEON existencias (actualizado).xlsx,P06-7621,Cable USB-C a USB-C 1 m,ACC-CAB-CC1,Cable USB-C a USB-C 1 m,
+LEO,LEON existencias (actualizado).xlsx,P03-3080,Eliminador para laptop 65 W punta universal,REF-ELI-LAP,Eliminador para laptop 65 W punta universal,
+LEO,LEON existencias (actualizado).xlsx,P05-8807,Cubo cargador USB-C 25W,ACC-CAR-C25,Cargador de pared USB-C 25W,
+LEO,LEON existencias (actualizado).xlsx,P05-7873,Teclado USB en español,ACC-TEC-USB,Teclado USB en español,
+LEO,LEON existencias (actualizado).xlsx,P02-1373,Pantalla Samsung A32 con marco,REF-PAN-SA32,Pantalla Samsung A32 con marco,
+LEO,LEON existencias (actualizado).xlsx,P07-5654,"Teclado para laptop HP 14"" en español",REF-TEC-HP14,"Teclado para laptop HP 14"" en español",precio distinto al maestro
+LEO,LEON existencias (actualizado).xlsx,P05-9172,Powerbank 10000 mAh,ACC-PWB-10K,Batería externa (power bank) 10000 mAh,
+LEO,LEON existencias (actualizado).xlsx,P07-3011,"Juego de bisagras laptop 15.6""",REF-BIS-LAP,"Juego de bisagras laptop 15.6""",
+LEO,LEON existencias (actualizado).xlsx,P08-4239,Soporte magnético para auto,ACC-SOP-AUT,Soporte magnético para auto,
+LEO,LEON existencias (actualizado).xlsx,P10-7156,Display OLED iPhone 12 (compatible),REF-PAN-IP12,Pantalla OLED iPhone 12 (compatible),
+LEO,LEON existencias (actualizado).xlsx,P02-3616,Batería iPhone 12,REF-BAT-IP12,Batería iPhone 12,
+LEO,LEON existencias (actualizado).xlsx,P05-9749,Audífonos BT,ACC-AUD-BT1,Audífonos inalámbricos Bluetooth in-ear,
+LEO,LEON existencias (actualizado).xlsx,P04-9895,Memoria RAM DDR4 8 GB SO-DIMM,REF-RAM-8GB,Memoria RAM DDR4 8 GB SO-DIMM,
+LEO,LEON existencias (actualizado).xlsx,P09-4811,MicroSD 128 GB,ACC-MSD-128,Memoria microSD 128 GB,
+LEO,LEON existencias (actualizado).xlsx,P04-6160,Disco sólido NVMe 1 TB,REF-SSD-1TB,Unidad SSD NVMe 1 TB,
+LEO,LEON existencias (actualizado).xlsx,P01-4187,Protector de pantalla iPhone 14,ACC-MIC-IP14,Mica cristal templado 9H iPhone 14,
+LEO,LEON existencias (actualizado).xlsx,P05-2444,Mouse inalámbrico 2.4 GHz,ACC-MOU-INA,Mouse inalámbrico 2.4 GHz,precio distinto al maestro
+LEO,LEON existencias (actualizado).xlsx,P08-7907,Protector de pantalla Samsung A15,ACC-MIC-SA15,Mica cristal templado 9H Samsung A15,
+LEO,LEON existencias (actualizado).xlsx,P09-4287,Memoria USB 32 GB,ACC-USB-032,Memoria USB 32 GB,
+LEO,LEON existencias (actualizado).xlsx,P10-1290,Display OLED iPhone 13 (compatible),REF-PAN-IP13,Pantalla OLED iPhone 13 (compatible),
+LEO,LEON existencias (actualizado).xlsx,P03-6858,"Disco duro 2.5"" 1 TB",REF-HDD-1TB,"Disco duro 2.5"" 1 TB",
+LEO,LEON existencias (actualizado).xlsx,P07-6627,Ventilador para laptop (universal 5 V),REF-VEN-LAP,Ventilador para laptop (universal 5 V),precio distinto al maestro
+LEO,LEON existencias (actualizado).xlsx,P07-4096,Puerto de carga tipo C,REF-CCA-USBC,Centro de carga USB-C (flex),
+LEO,LEON existencias (actualizado).xlsx,P02-1613,Batería Samsung A52,REF-BAT-SA52,Batería Samsung A52,
+LEO,LEON existencias (actualizado).xlsx,P06-8885,Cable USB-C a USB-C 2 m,ACC-CAB-CC2,Cable USB-C a USB-C 2 m,
+LEO,LEON existencias (actualizado).xlsx,P05-3826,Cubo cargador USB-C 20W,ACC-CAR-C20,Cargador de pared USB-C 20W,precio distinto al maestro
+LEO,LEON existencias (actualizado).xlsx,P10-2560,Display iPhone 11 (compatible),REF-PAN-IP11,Pantalla LCD iPhone 11 (compatible),
+LEO,LEON existencias (actualizado).xlsx,P06-7177B,CBL USB-C-LIGHT 1 M,ACC-CAB-CL1,Cable USB-C a Lightning 1 m,DUPLICADO interno del mismo producto; existencia real = suma
+SLP,slp_productos (2).csv,1,pantalla oled iphone 13 (compatible),REF-PAN-IP13,Pantalla OLED iPhone 13 (compatible),
+SLP,slp_productos (2).csv,2,unidad ssd nvme 1 tb,REF-SSD-1TB,Unidad SSD NVMe 1 TB,
+SLP,slp_productos (2).csv,3,unidad ssd sata 480 gb,REF-SSD-480,Unidad SSD SATA 480 GB,
+SLP,slp_productos (2).csv,4,cable usb-c a lightning 1 m,ACC-CAB-CL1,Cable USB-C a Lightning 1 m,
+SLP,slp_productos (2).csv,5,mica cristal templado 9h iphone 14,ACC-MIC-IP14,Mica cristal templado 9H iPhone 14,
+SLP,slp_productos (2).csv,6,pantalla samsung a32 con marco,REF-PAN-SA32,Pantalla Samsung A32 con marco,
+SLP,slp_productos (2).csv,7,funda tpu transparente iphone 14,ACC-FUN-IP14,Funda TPU transparente iPhone 14,
+SLP,slp_productos (2).csv,8,"teclado para laptop hp 14"" en espanol",REF-TEC-HP14,"Teclado para laptop HP 14"" en español",precio distinto al maestro
+SLP,slp_productos (2).csv,9,memoria usb 32 gb,ACC-USB-032,Memoria USB 32 GB,precio distinto al maestro
+SLP,slp_productos (2).csv,10,funda tpu transparente samsung a15,ACC-FUN-SA15,Funda TPU transparente Samsung A15,
+SLP,slp_productos (2).csv,11,pantalla oled iphone 12 (compatible),REF-PAN-IP12,Pantalla OLED iPhone 12 (compatible),
+SLP,slp_productos (2).csv,12,pasta termica 4 g,REF-PAS-TER,Pasta térmica 4 g,
+SLP,slp_productos (2).csv,13,mica cristal templado 9h samsung a15,ACC-MIC-SA15,Mica cristal templado 9H Samsung A15,
+SLP,slp_productos (2).csv,14,audifonos inalambricos bluetooth in-ear,ACC-AUD-BT1,Audífonos inalámbricos Bluetooth in-ear,
+SLP,slp_productos (2).csv,15,cable usb-c a usb-c 2 m,ACC-CAB-CC2,Cable USB-C a USB-C 2 m,
+SLP,slp_productos (2).csv,16,soporte magnetico para auto,ACC-SOP-AUT,Soporte magnético para auto,precio distinto al maestro
+SLP,slp_productos (2).csv,17,"disco duro 2.5"" 1 tb",REF-HDD-1TB,"Disco duro 2.5"" 1 TB",precio distinto al maestro
+SLP,slp_productos (2).csv,18,mica cristal templado 9h iphone 15,ACC-MIC-IP15,Mica cristal templado 9H iPhone 15,
+SLP,slp_productos (2).csv,19,mouse inalambrico 2.4 ghz,ACC-MOU-INA,Mouse inalámbrico 2.4 GHz,
+SLP,slp_productos (2).csv,20,eliminador para laptop 65 w punta universal,REF-ELI-LAP,Eliminador para laptop 65 W punta universal,
+SLP,slp_productos (2).csv,21,funda tpu transparente iphone 13,ACC-FUN-IP13,Funda TPU transparente iPhone 13,
+SLP,slp_productos (2).csv,22,bateria samsung a52,REF-BAT-SA52,Batería Samsung A52,
+SLP,slp_productos (2).csv,23,pantalla samsung a52 con marco,REF-PAN-SA52,Pantalla Samsung A52 con marco,
+SLP,slp_productos (2).csv,24,bateria iphone 12,REF-BAT-IP12,Batería iPhone 12,
+SLP,slp_productos (2).csv,25,"juego de bisagras laptop 15.6""",REF-BIS-LAP,"Juego de bisagras laptop 15.6""",precio distinto al maestro
+SLP,slp_productos (2).csv,26,funda uso rudo samsung a54,ACC-FUN-SA54,Funda uso rudo Samsung A54,precio distinto al maestro
+SLP,slp_productos (2).csv,27,bateria externa (power bank) 10000 mah,ACC-PWB-10K,Batería externa (power bank) 10000 mAh,
+SLP,slp_productos (2).csv,28,centro de carga usb-c (flex),REF-CCA-USBC,Centro de carga USB-C (flex),
+SLP,slp_productos (2).csv,29,cable usb-c a usb-c 1 m,ACC-CAB-CC1,Cable USB-C a USB-C 1 m,
+SLP,slp_productos (2).csv,30,teclado usb en espanol,ACC-TEC-USB,Teclado USB en español,
+SLP,slp_productos (2).csv,31,cargador de pared usb-c 25w,ACC-CAR-C25,Cargador de pared USB-C 25W,precio distinto al maestro
+SLP,slp_productos (2).csv,32,pantalla lcd iphone 11 (compatible),REF-PAN-IP11,Pantalla LCD iPhone 11 (compatible),
+SLP,slp_productos (2).csv,33,ventilador para laptop (universal 5 v),REF-VEN-LAP,Ventilador para laptop (universal 5 V),
+SLP,slp_productos (2).csv,34,funda tpu transparente iphone 15,ACC-FUN-IP15,Funda TPU transparente iPhone 15,
+SLP,slp_productos (2).csv,28B,Puerto de carga tipo C,REF-CCA-USBC,Centro de carga USB-C (flex),DUPLICADO interno del mismo producto; existencia real = suma
+AGS,ags lista precios.xlsx,,Unidad SSD SATA 480 GB,REF-SSD-480,Unidad SSD SATA 480 GB,
+AGS,ags lista precios.xlsx,,"Teclado para laptop HP 14"" en español",REF-TEC-HP14,"Teclado para laptop HP 14"" en español",
+AGS,ags lista precios.xlsx,,Funda TPU transparente Samsung A25,ACC-FUN-SA25,Funda TPU transparente Samsung A25,
+AGS,ags lista precios.xlsx,,Funda TPU transparente iPhone 15,ACC-FUN-IP15,Funda TPU transparente iPhone 15,
+AGS,ags lista precios.xlsx,,Pantalla Samsung A52 con marco,REF-PAN-SA52,Pantalla Samsung A52 con marco,precio distinto al maestro
+AGS,ags lista precios.xlsx,,Pantalla LCD iPhone 11 (compatible),REF-PAN-IP11,Pantalla LCD iPhone 11 (compatible),
+AGS,ags lista precios.xlsx,,Funda TPU transparente iPhone 13,ACC-FUN-IP13,Funda TPU transparente iPhone 13,
+AGS,ags lista precios.xlsx,,Pantalla OLED iPhone 13 (compatible),REF-PAN-IP13,Pantalla OLED iPhone 13 (compatible),
+AGS,ags lista precios.xlsx,,Funda uso rudo Samsung A54,ACC-FUN-SA54,Funda uso rudo Samsung A54,
+AGS,ags lista precios.xlsx,,Batería iPhone 12,REF-BAT-IP12,Batería iPhone 12,
+AGS,ags lista precios.xlsx,,Audífonos inalámbricos Bluetooth in-ear,ACC-AUD-BT1,Audífonos inalámbricos Bluetooth in-ear,
+AGS,ags lista precios.xlsx,,Memoria microSD 64 GB,ACC-MSD-064,Memoria microSD 64 GB,precio distinto al maestro
+AGS,ags lista precios.xlsx,,Mouse inalámbrico 2.4 GHz,ACC-MOU-INA,Mouse inalámbrico 2.4 GHz,
+AGS,ags lista precios.xlsx,,Memoria RAM DDR4 8 GB SO-DIMM,REF-RAM-8GB,Memoria RAM DDR4 8 GB SO-DIMM,
+AGS,ags lista precios.xlsx,,Soporte magnético para auto,ACC-SOP-AUT,Soporte magnético para auto,
+AGS,ags lista precios.xlsx,,Cable USB-C a USB-C 1 m,ACC-CAB-CC1,Cable USB-C a USB-C 1 m,
+AGS,ags lista precios.xlsx,,Eliminador para laptop 65 W punta universal,REF-ELI-LAP,Eliminador para laptop 65 W punta universal,precio distinto al maestro
+AGS,ags lista precios.xlsx,,Ventilador para laptop (universal 5 V),REF-VEN-LAP,Ventilador para laptop (universal 5 V),precio distinto al maestro
+AGS,ags lista precios.xlsx,,Funda TPU transparente Samsung A15,ACC-FUN-SA15,Funda TPU transparente Samsung A15,precio distinto al maestro
+AGS,ags lista precios.xlsx,,Cable USB-C a Lightning 1 m,ACC-CAB-CL1,Cable USB-C a Lightning 1 m,
+AGS,ags lista precios.xlsx,,Batería iPhone 11,REF-BAT-IP11,Batería iPhone 11,precio distinto al maestro
+AGS,ags lista precios.xlsx,,"Disco duro 2.5"" 1 TB",REF-HDD-1TB,"Disco duro 2.5"" 1 TB",
+AGS,ags lista precios.xlsx,,Mica cristal templado 9H iPhone 14,ACC-MIC-IP14,Mica cristal templado 9H iPhone 14,
+AGS,ags lista precios.xlsx,,"Juego de bisagras laptop 15.6""",REF-BIS-LAP,"Juego de bisagras laptop 15.6""",
+AGS,ags lista precios.xlsx,,Cable USB-C a USB-C 2 m,ACC-CAB-CC2,Cable USB-C a USB-C 2 m,precio distinto al maestro
+AGS,ags lista precios.xlsx,,Cargador de pared USB-C 25W,ACC-CAR-C25,Cargador de pared USB-C 25W,precio distinto al maestro
+AGS,ags lista precios.xlsx,,Pasta térmica 4 g,REF-PAS-TER,Pasta térmica 4 g,
+AGS,ags lista precios.xlsx,,Pantalla Samsung A32 con marco,REF-PAN-SA32,Pantalla Samsung A32 con marco,
+AGS,ags lista precios.xlsx,,Teclado USB en español,ACC-TEC-USB,Teclado USB en español,
+AGS,ags lista precios.xlsx,,Mica cristal templado 9H iPhone 15,ACC-MIC-IP15,Mica cristal templado 9H iPhone 15,
+AGS,ags lista precios.xlsx,,Batería Samsung A52,REF-BAT-SA52,Batería Samsung A52,
+AGS,ags lista precios.xlsx,,Mica cristal templado 9H Samsung A15,ACC-MIC-SA15,Mica cristal templado 9H Samsung A15,
+AGS,ags lista precios.xlsx,,Memoria microSD 128 GB,ACC-MSD-128,Memoria microSD 128 GB,
+AGS,ags lista precios.xlsx,,pantalla oled iphone 13 (compatible),REF-PAN-IP13,Pantalla OLED iPhone 13 (compatible),DUPLICADO interno del mismo producto; existencia real = suma
