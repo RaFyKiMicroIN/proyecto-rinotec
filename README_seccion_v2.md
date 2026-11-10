@@ -3,7 +3,7 @@
 
 ## Versión 2: sitio web, acceso de empleados y agente para clientes
 
-> Esta versión es posterior a la entrega de la Fase 2 (6 de noviembre de 2026) y se desarrolla en la rama `v2-sitio-web`. La entrega oficial se conserva sin cambios en la rama `main` y en la release `v1.0-fase2-entregada`.
+> Esta versión es posterior a la entrega de la Fase 2 (6 de noviembre de 2026). La entrega oficial se conserva sin cambios en la release `v1.0-fase2-entregada`, y esta versión corresponde a la release `v2.0-sitio-web`.
 
 **Aplicación publicada:** https://rinotec-web-rlr2026-h0gqataufzdqghac.norwayeast-01.azurewebsites.net
 
@@ -85,7 +85,7 @@ Sus nombres están en `rinotec-web/.env.example`. Los valores reales no se publi
 3. Se configuraron las variables de entorno desde el portal.
 4. Se desplegó el paquete zip con `az webapp deploy ... --type zip`. Resultado: `RuntimeSuccessful`.
 
-### Estructura agregada en esta rama
+### Estructura agregada en la versión 2
 
 ```
 rinotec-web/                       Aplicación de la versión 2 (sitio web + asistente)
